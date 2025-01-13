@@ -1,7 +1,7 @@
 ---
 name: Unity Portals Prototype
 tools: [C#, Unity]
-image: /assets/images/MeshShatter (1).png
+image: /assets/images/time.png
 description: Fighting game base with mesh destruction system
 ---
 
