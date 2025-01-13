@@ -46,7 +46,7 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+#permalink: /blog/:title
 
 
 ### Collections ###
@@ -85,11 +85,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###
