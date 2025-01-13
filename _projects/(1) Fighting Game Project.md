@@ -1,7 +1,7 @@
 ---
 name: Unity Fighting Game Prototype
 tools: [C#, Unity]
-image: {{ site.baseurl }}/images/MeshShatter (1).png
+image: {{ site.baseurl }}/assets/images/MeshShatter (1).png
 description: Fighting game base with mesh destruction system
 ---
 
@@ -9,7 +9,7 @@ description: Fighting game base with mesh destruction system
 
 Desc
 
-![Image]({{ site.baseurl }}/images/MeshShatter (2).png)
+![Image]({{ site.baseurl }}/assets/images/MeshShatter (2).png)
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/CassCoffey" text="Learn More" %}
