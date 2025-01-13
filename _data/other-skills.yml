@@ -2,6 +2,10 @@
   percentage: 95
   color: info
 
+- name: Blender
+  percentage: 70
+  color: primary
+
 - name: Godot
   percentage: 60
   color: success
