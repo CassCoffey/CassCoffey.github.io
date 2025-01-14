@@ -1,16 +1,15 @@
 ---
 name: Racing Track Procedural Generation
 tools: [C#, Unity]
-image: /assets/images/track01.png
-description: Fighting game base with mesh destruction system
+image: /assets/images/carCover.png
+description: Spline-based procedural generation
 ---
 
-# Unity Fighting Game Prototype
+# Racing Track Procedural Generation
 
-Desc
+A college group project, we decided to make a simple racing game as a team and I wanted to practice procedural generation more.
+I wrote up a basic system for automatically generating a spline and creating a textured mesh that followed it, as well as placing trees alongside the track.
 
-![Image]({{ site.baseurl }}/assets/images/MeshShatter (2).png)
+![Image]({{ site.baseurl }}/assets/images/track01.png)
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey" text="Learn More" %}
-</p>
+![Image]({{ site.baseurl }}/assets/images/track02.png)

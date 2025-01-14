@@ -1,16 +1,16 @@
 ---
 name: DX11 Engine
-tools: [C#, Unity]
-image: /assets/images/engine1.png
-description: Fighting game base with mesh destruction system
+tools: [C++]
+image: /assets/images/engineCover.png
+description: A basic DX11 rendering engine
 ---
 
-# Unity Fighting Game Prototype
+# DX11 Engine
 
-Desc
+As a special elective in my senior year, I worked through creating a basic rendering engine with physically based rendering, cubemap skyboxes and reflections, and particle systems.
 
-![Image]({{ site.baseurl }}/assets/images/MeshShatter (2).png)
+![Video]({{ site.baseurl }}/assets/videos/engine.mp4)
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey" text="Learn More" %}
-</p>
+![Image]({{ site.baseurl }}/assets/images/engine1.png)
+
+![Image]({{ site.baseurl }}/assets/images/engine2.png)
