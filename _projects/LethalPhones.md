@@ -1,7 +1,7 @@
 ---
 name: Lethal Phones
 tools: [C#, Unity]
-image: /assets/images/LethalPhones.png
+image: /assets/images/LethalPhonesIcon.png
 description: Lethal Company mod focused on interactivity
 ---
 
