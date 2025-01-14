@@ -1,5 +1,5 @@
 ---
-name: Racing Track Procedural Generation
+name: Racetrack Procedural Generation
 tools: [C#, Unity]
 image: /assets/images/carCover.png
 description: Spline-based procedural generation

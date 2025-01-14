@@ -11,9 +11,9 @@ A prototype I developed for a "Super Smash Bros" style fighting game. I wanted t
 
 ![Image]({{ site.baseurl }}/assets/images/fighting.gif)
 
-<iframe width="420" height="315" src="{{ site.baseurl }}/assets/videos/MeshShatter.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/MeshShatter.mp4" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="420" height="315" src="{{ site.baseurl }}/assets/videos/MeshReconstruct.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/MeshReconstruct.mp4" frameborder="0" allowfullscreen></iframe>
 
 ![Image]({{ site.baseurl }}/assets/images/MeshShatter (1).png)
 

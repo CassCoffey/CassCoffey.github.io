@@ -1,16 +1,20 @@
 ---
 name: Risk Of Ruina
-tools: [C#, Unity]
-image: /assets/images/RiskOfRuina.jpg
-description: Fighting game base with mesh destruction system
+tools: [C#, Unity, Wwise]
+image: /assets/images/RoRIcon.png
+description: Risk of Rain 2 Mod with fully featured characters
 ---
 
-# Unity Fighting Game Prototype
+# Risk Of Ruina
 
-Desc
+A Risk Of Rain 2 mod that I worked with a friend on. She created all of the 3D models used, and I handled the rest of the project from code to animation.
+By the time I stopped supporting the mod, there were two fully featured characters with skins and achievements as well as a number of items. The mod was popular enough that I handed it off to another team who still keeps it patched.
+The characters are both fully networked and designed with compatability with other mods in mind. While I was actively supporting the mod I recieved and responded to bug reports and feature requests.
 
-![Image]({{ site.baseurl }}/assets/images/MeshShatter (2).png)
+<iframe width="640" height="360" src="https://youtu.be/otxKn0jHWxY?si=Pcmd1PrJ1QcN4sfh" frameborder="0" allowfullscreen></iframe>
+
+![Image]({{ site.baseurl }}/assets/images/RedMistSelectImage.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey" text="Learn More" %}
+{% include elements/button.html link="https://github.com/CassCoffey/RiskOfRuina" text="Learn More" %}
 </p>
