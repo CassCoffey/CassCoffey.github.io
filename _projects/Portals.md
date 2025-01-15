@@ -2,15 +2,15 @@
 name: Unity Portals Prototype
 tools: [C#, Unity]
 image: /assets/images/time.png
-description: Fighting game base with mesh destruction system
+description: 'Portal' style portals in Unity
 ---
 
-# Unity Fighting Game Prototype
+# Unity Portals Prototype
 
-Desc
+A script I made to simulate the effect of portals from the game 'Portal'. To demo it I made a scene where the portals could be used to move through 'time' by connecting to a saved instance of the scene.
 
-![Image]({{ site.baseurl }}/assets/images/MeshShatter (2).png)
+<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/time.mp4" frameborder="0" allowfullscreen></iframe>
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey" text="Learn More" %}
+{% include elements/button.html link="https://github.com/CassCoffey/UnityPortalScript" text="Learn More" %}
 </p>
