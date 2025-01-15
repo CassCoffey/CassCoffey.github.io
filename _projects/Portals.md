@@ -1,8 +1,8 @@
 ---
 name: Unity Portals Prototype
 tools: [C#, Unity]
-image: /assets/images/time.png
-description: 'Portal' style portals in Unity
+image: /assets/images/TimeCover.png
+description: Portal style portals in Unity
 ---
 
 # Unity Portals Prototype
