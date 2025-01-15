@@ -11,7 +11,7 @@ A Risk Of Rain 2 mod that I worked with a friend on. She created all of the 3D m
 By the time I stopped supporting the mod, there were two fully featured characters with skins and achievements as well as a number of items. The mod was popular enough that I handed it off to another team who still keeps it patched.
 The characters are both fully networked and designed with compatability with other mods in mind. While I was actively supporting the mod I recieved and responded to bug reports and feature requests.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/otxKn0jHWxY?si=eWOXI7wK5FFWK9Qg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/RedMistDemo.mp4" frameborder="0" allowfullscreen></iframe>
 
 ![Image]({{ site.baseurl }}/assets/images/RedMistSelectImage.png)
 
