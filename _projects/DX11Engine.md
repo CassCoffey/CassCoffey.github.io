@@ -9,7 +9,7 @@ description: A basic DX11 rendering engine
 
 As a special elective in my senior year, I worked through creating a basic rendering engine with physically based rendering, cubemap skyboxes and reflections, and particle systems.
 
-<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/engine.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/engine.mp4" frameborder="0" allowfullscreen="" style="margin: auto;display: block;"></iframe>
 
 ![Image]({{ site.baseurl }}/assets/images/engine1.png)
 
