@@ -10,6 +10,10 @@
   percentage: 80
   color: danger
   
+- name: Lua
+  percentage: 65
+  color: secondary
+  
 - name: C++
   percentage: 60
   color: warning
