@@ -16,5 +16,5 @@ The characters are both fully networked and designed with compatability with oth
 ![Image]({{ site.baseurl }}/assets/images/RedMistSelectImage.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey/RiskOfRuina" text="Learn More" %}
+{% include elements/button.html link="https://github.com/CassCoffey/RiskOfRuina" text="Check Out The Repo" %}
 </p>

@@ -16,5 +16,5 @@ Lethal Company was an interesting challenge to work with, code-base wise. I lear
 ![Image]({{ site.baseurl }}/assets/images/LethalPhones.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey/LethalPhones" text="Learn More" %}
+{% include elements/button.html link="https://github.com/CassCoffey/LethalPhones" text="Check Out The Repo" %}
 </p>

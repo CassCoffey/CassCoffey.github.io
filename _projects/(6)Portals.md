@@ -12,5 +12,5 @@ A script I made to simulate the effect of portals from the game 'Portal'. To dem
 <iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/time.mp4" frameborder="0" allowfullscreen="" style="margin: 1rem auto;display: block;max-width: 100%;"></iframe>
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey/UnityPortalScript" text="Learn More" %}
+{% include elements/button.html link="https://github.com/CassCoffey/UnityPortalScript" text="Check Out The Repo" %}
 </p>

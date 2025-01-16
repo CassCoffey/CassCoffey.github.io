@@ -7,8 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heya! I'm **{{ site.author.name }}**.<br>
+Game Dev has been my passion for a very long time, ever since I wrote my first Lua scripts in Garry's Mod over a decade ago. Since then I've worked on many different projects, from rapid prototypes of gameplay systems to fully featured mods for popular games.<br>
+While Unity and C# have been my go-to game development tools for nearly 10 years now, I've learned many other systems and languages on the side.<br>
+The Projects page above shows my more significant endeavors, but between those I'm always challenging myself and learning new skills. Whether its writing up a quick balance or bugfix mod for a game my friends are playing, trying out various other game engines such as Godot or Twine, or brushing up on other skills such as animation and video editing; the ability to learn and adapt to any system or architecture is my greatest strength.<br>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

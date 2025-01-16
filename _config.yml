@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Cassidy Coffey
 description         : >-
-                      Game Developer
+                      Game Developer with a focus on Rapid Prototyping and Gameplay Systems architecture
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : CassCoffey/CassCoffey.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU

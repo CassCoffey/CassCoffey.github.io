@@ -16,5 +16,5 @@ Below is the file size of the two replays being shown in the above video:
 ![Image]({{ site.baseurl }}/assets/images/SpeedGameReplaySize.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/CassCoffey/UnitySpeedGame" text="Learn More" %}
+{% include elements/button.html link="https://github.com/CassCoffey/UnitySpeedGame" text="Check Out The Repo" %}
 </p>
