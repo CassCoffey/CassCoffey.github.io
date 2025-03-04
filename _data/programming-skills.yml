@@ -10,6 +10,10 @@
   percentage: 80
   color: danger
   
+- name: HLSL
+  percentage: 60
+  color: info
+  
 - name: Lua
   percentage: 65
   color: secondary
