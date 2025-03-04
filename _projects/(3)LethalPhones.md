@@ -13,6 +13,10 @@ Lethal Company was an interesting challenge to work with, code-base wise. I lear
 
 <iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/LethalPhonesDemo.mp4" frameborder="0" allowfullscreen="" style="margin: 1rem auto;display: block;max-width: 100%;"></iframe>
 
+<iframe width="640" height="360" src="{{ site.baseurl }}/assets/videos/LethalPhonesCustomization.mp4" frameborder="0" allowfullscreen="" style="margin: 1rem auto;display: block;max-width: 100%;"></iframe>
+
+![Image]({{ site.baseurl }}/assets/images/switchboard.gif)
+
 ![Image]({{ site.baseurl }}/assets/images/LethalPhones.png)
 
 <p class="text-center">
