@@ -11,7 +11,7 @@
   color: danger
   
 - name: HLSL
-  percentage: 60
+  percentage: 75
   color: info
   
 - name: Lua
